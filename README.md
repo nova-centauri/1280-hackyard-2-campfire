@@ -1,9 +1,11 @@
-# 1280-hackyard-2-campfire
+# Bonfire
 
-Yard #2 **idea stream** for **Campfire** — a no-UI tab you tend like a real fire.
+Yard #2 **final primary** (locked Fri Sep 11 evening). Campfire lineage.
 
-**Planning only. Do not start building until Steve says go.**
+**Domain:** [bonfire.observer](https://bonfire.observer) — already registered on Cloudflare. Do **not** buy again. Point at VPS-1 (`187.77.195.139`).
 
-Primary weekend ship is still [BreezeVibe](https://github.com/nova-centauri/1280-hackyard-2). VibeShare backup: [1280-hackyard-2-vibeshare](https://github.com/nova-centauri/1280-hackyard-2-vibeshare).
+**Planning:** [PLAN.md](./PLAN.md)
 
-Read **[PLAN.md](./PLAN.md)**.
+BreezeVibe (`1280-hackyard-2`, breezevibe.site) stays live but is **not** this weekend’s ship. VibeShare remains parked.
+
+Do not start the product build until Steve says go. DNS/placeholder is VPS-01.
