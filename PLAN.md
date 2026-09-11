@@ -1,7 +1,12 @@
-# Campfire — planning document
+# Bonfire — planning document
 
-Working title: **Campfire**. Repo: `nova-centauri/1280-hackyard-2-campfire`.
-Status: vaulted idea. Not building. Not on VPS. No domain.
+Working title: **Bonfire** (was Campfire). Domain: **bonfire.observer** (Cloudflare, registered 2026-09-11 — do not buy again).
+Repo: `nova-centauri/1280-hackyard-2-campfire`.
+Status: Yard #2 **final primary**. Planning in this repo. DNS/placeholder via VPS-01. Product build not started from this vault.
+
+BreezeVibe is no longer the weekend ship target. VibeShare stays backup/parked.
+
+---
 
 ## 1. One sentence
 
@@ -211,7 +216,7 @@ If the room doesn’t want to stare at the flame, the visual bar failed.
 
 - Web, Three.js, one repo
 - No backend for MVP (localStorage)
-- Optional later: same VPS pattern as BreezeVibe (`webhook-pull`) if it ships
+- When it ships: `bonfire.observer` on VPS-1, same webhook-pull pattern as BreezeVibe
 
 ## 17. Commanding prompt (paste when Steve says go)
 
@@ -247,6 +252,6 @@ Success = someone stares at it and then tries not to let it die.
 
 | Stream | Repo | Role |
 |---|---|---|
-| BreezeVibe | `1280-hackyard-2` | Yard #2 **primary**, live |
-| VibeShare | `1280-hackyard-2-vibeshare` | backup, not building |
-| Campfire | this repo | third idea, planning only |
+| Bonfire | this repo + bonfire.observer | Yard #2 **final primary** |
+| BreezeVibe | `1280-hackyard-2` / breezevibe.site | live, no longer the weekend ship |
+| VibeShare | `1280-hackyard-2-vibeshare` | backup, parked |
