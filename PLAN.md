@@ -255,3 +255,22 @@ Success = someone stares at it and then tries not to let it die.
 | Bonfire | this repo + bonfire.observer | Yard #2 **final primary** |
 | BreezeVibe | `1280-hackyard-2` / breezevibe.site | live, no longer the weekend ship |
 | VibeShare | `1280-hackyard-2-vibeshare` | backup, parked |
+
+## 20. Future scenes (recorded 2026-09-12 — do not build yet)
+
+Steve: keep the current simple bonfire as one scene. Later, several pickable scenes, changeable at any time.
+
+**Scenes (seed list)**
+- Current outdoor bonfire (what is live on bonfire.observer)
+- Wilderness fire (deeper woods, less camp-ring)
+- Indoor fireplace
+- Cabin interior with a wood furnace
+- Other scenes as they show up
+
+**Ambience (per scene)**
+- Outdoor: bugs, owls, night woods
+- Christmas / indoor: crackling radio
+- Whatever belongs to that room or clearing
+- Fire sounds stay; user gets a lot of control over fire vs ambient mix and balance
+
+**Not this weekend.** Do not add scene picker, radio, or extra environments to `hackyard-bonfire` until Steve says go.
